@@ -5,7 +5,7 @@
 - <b>REACT (React framework, JavaScript, Material Ui)</b><b>
   - [Marketplace App](https://github.com/elena-brcioska/Markerplace-App---REACT-PROJECT)
 - <b>JavaScript</b>
-  - [Events Landing Page - Creative Hub](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Events Landing Page - Creative Hub](https://github.com/elena-brcioska/Events-Landing-Page-for-Creative-Hub) 
   - [Dice Game](https://github.com/elena-brcioska/Dice-Game---Javascript-Project)
 - <b>HTML, CSS, Bootstrap </b>
   - [The Cupcake Factory - Landing Page](https://github.com/elena-brcioska/The-Cupcake-Factory)
