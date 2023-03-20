@@ -4,6 +4,7 @@
 
 - <b>REACT (React framework, JavaScript, Material Ui)</b><b>
   - [Marketplace App](https://github.com/elena-brcioska/Markerplace-App---REACT-PROJECT)
+  - [ToDo List](https://github.com/elena-brcioska/To-Do-App)
 - <b>JavaScript</b>
   - [Events Landing Page - Creative Hub](https://github.com/elena-brcioska/Events-Landing-Page-for-Creative-Hub) 
   - [Dice Game](https://github.com/elena-brcioska/Dice-Game---Javascript-Project)
