@@ -6,7 +6,8 @@
   - [Marketplace App](https://github.com/elena-brcioska/Markerplace-App---REACT-PROJECT)
   - [ToDo List](https://github.com/elena-brcioska/To-Do-App)
 - <b>JavaScript</b>
-  - [Events Landing Page - Creative Hub](https://github.com/elena-brcioska/Events-Landing-Page-for-Creative-Hub) 
+  - [Events Landing Page - Creative Hub](https://github.com/elena-brcioska/Events-Landing-Page-for-Creative-Hub)
+  - [Finance Logger (Typescript with Webpack)]([https://github.com/elena-brcioska/Events-Landing-Page-for-Creative-Hub](https://github.com/elena-brcioska/Finance-Logger)) 
   - [Dice Game](https://github.com/elena-brcioska/Dice-Game---Javascript-Project)
 - <b>HTML, CSS, Bootstrap </b>
   - [The Cupcake Factory - Landing Page](https://github.com/elena-brcioska/The-Cupcake-Factory)
