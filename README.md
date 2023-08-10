@@ -2,6 +2,13 @@
 
 <h2>👨‍💻 Front-End Developer Projects:</h2>
 
+- <b>REAL PROJECTS FOR CLIENTS</b><b>
+  - [Data Analytics Academy Landing Page](https://github.com/elena-brcioska/Data-Analytics-Academy-Landing-Page---CreativeHub.mk)
+  - [Software Testing Academy Landing Page](https://github.com/elena-brcioska/Software-Testing-Academy-Landing-Page---CreativeHub.mk)
+  - [Women's Leadership Academy Landing Page](https://github.com/elena-brcioska/Womens-Leadership-Academy-Landing-Page---CreativeHub.mk)
+  - [Backend Academy Landing Page](https://github.com/elena-brcioska/Backend-Academy-Landing-Page---CreativeHub.mk)
+<br />
+
 - <b>REACT (React framework, JavaScript, Material Ui)</b><b>
   - [Marketplace App](https://github.com/elena-brcioska/Markerplace-App---REACT-PROJECT)
   - [ToDo List](https://github.com/elena-brcioska/To-Do-App)
