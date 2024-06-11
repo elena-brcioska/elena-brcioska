@@ -3,6 +3,7 @@
 <h2>👨‍💻 Front-End Developer Projects:</h2>
 
 - <b>REAL PROJECTS FOR CLIENTS</b><b>
+  - [Digital Marketing Academy @CreativeHub Miami](https://github.com/elena-brcioska/digital-marketing-US/)
   - [Data Analytics Academy Landing Page](https://github.com/elena-brcioska/Data-Analytics-Academy-Landing-Page---CreativeHub.mk)
   - [Software Testing Academy Landing Page](https://github.com/elena-brcioska/Software-Testing-Academy-Landing-Page---CreativeHub.mk)
   - [Women's Leadership Academy Landing Page](https://github.com/elena-brcioska/Womens-Leadership-Academy-Landing-Page---CreativeHub.mk)
