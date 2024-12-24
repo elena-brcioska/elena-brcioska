@@ -3,7 +3,7 @@
 <h2>👨‍💻 Front-End Developer Projects:</h2>
 
 - <b>LATEST PROJECT!</b><b>
-- [COSMAS and MAK-CONNECT - Internship Journal](https://github.com/elena-brcioska/digital-marketing-US/)
+- [COSMAS and MAK-CONNECT - Internship Journal](https://github.com/elena-brcioska/internship-journal/)
 - [Post Management App (React)](https://github.com/elena-brcioska/post-management-app)
 <br />
 
