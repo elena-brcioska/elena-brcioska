@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Front-End Developer Projects:</h2>
 
+- <b>LATEST PROJECT!</b><b>
+- [COSMAS and MAK-CONNECT - Internship Journal](https://github.com/elena-brcioska/digital-marketing-US/)
+- [Post Management App (React)](https://github.com/elena-brcioska/post-management-app)
+<br />
+
 - <b>REAL PROJECTS FOR CLIENTS</b><b>
   - [Digital Marketing Academy @CreativeHub Miami](https://github.com/elena-brcioska/digital-marketing-US/)
   - [Data Analytics Academy Landing Page](https://github.com/elena-brcioska/Data-Analytics-Academy-Landing-Page---CreativeHub.mk)
